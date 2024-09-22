@@ -28,6 +28,7 @@
   (Cherry-picked from https://activitypub.software/TransFem-org/Sharkey/-/commit/26e0412fbb91447c37e8fb06ffb0487346063bb8)
 - Fix: `Retry-After`ヘッダーが送信されなかった問題を修正
   (Cherry-picked from https://activitypub.software/TransFem-org/Sharkey/-/commit/8a982c61c01909e7540ff1be9f019df07c3f0624)
+- Fix: 検索対象に注釈の文言を含むように
 
 ## 2024.8.0
 
